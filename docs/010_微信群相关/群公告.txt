@@ -49,6 +49,9 @@ https://github.com/ljsdl/kmusubi
 ■项目文档管理
 https://github.com/ljsdl/kmusubi/tree/master/docs
 
+■初次环境搭建是导入数据
+https://github.com/ljsdl/kmusubi/tree/master/docs/008_データ移行\LAA1310979-kmusubi.sql
+
 ■另外还为不参与该项目但想学习的朋友准备了另外一套源代码，允许自由修改。
 https://github.com/ljsdl/ITCompany
 
